@@ -11,7 +11,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 import "react-pdf/dist/esm/Page/TextLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
-const resumeLink = `https://raw.githubusercontent.com/19sajib/portfolio/main/src/assets/sajib.pdf`
+const resumeLink = `https://raw.githubusercontent.com/MahfuzAnan/SWE4637/main/Portfolio/src/assets/Ahmed_Mahfuz_Anan_CV.pdf`
 
 
 const Resume = () => {
